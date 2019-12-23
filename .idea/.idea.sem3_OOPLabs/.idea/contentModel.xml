@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_sem3_OOPLabs.-2076282438.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Lab1_RationalFraction" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Caches" t="Include">
+          <e p="Cache.cs" t="Include" />
+          <e p="ICache.cs" t="Include" />
+          <e p="Query.cs" t="Include" />
+        </e>
+        <e p="FractionCollections" t="Include">
+          <e p="CachedFractionList.cs" t="Include" />
+          <e p="IFractionCollection.cs" t="Include" />
+        </e>
+        <e p="FractionsScanner.cs" t="Include" />
+        <e p="input" t="Include" />
+        <e p="Lab1_RationalFraction.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Polynomial" t="Include">
+          <e p="Polynomial.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RationalFraction.cs" t="Include" />
+      </e>
+      <e p="Lab2_MusicLibrary" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Buckets" t="Include">
+          <e p="Album.cs" t="Include" />
+          <e p="Artist.cs" t="Include" />
+          <e p="Genre.cs" t="Include" />
+          <e p="Year.cs" t="Include" />
+        </e>
+        <e p="Lab2_MusicLibrary.csproj" t="IncludeRecursive" />
+        <e p="MusicLib.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Queue.cs" t="Include" />
+        <e p="Track.cs" t="Include" />
+      </e>
+      <e p="Lab3_INIReader" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="INIReader.cs" t="Include" />
+        <e p="Lab3_INIReader.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="test.ini" t="Include" />
+      </e>
+      <e p="Lab4_DAOShop" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="data" t="Include">
+          <e p="products.csv" t="Include" />
+          <e p="shops.csv" t="Include" />
+        </e>
+        <e p="DBShopsDAO.cs" t="Include" />
+        <e p="DBUtils.cs" t="Include" />
+        <e p="FileShopsDAO.cs" t="Include" />
+        <e p="IShopsDAO.cs" t="Include" />
+        <e p="Lab4_DAOShop.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Product.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="App.config" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Shop.cs" t="Include" />
+        <e p="ShopsService.cs" t="Include" />
+      </e>
+      <e p="Lab5_Serialization" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="bindots" t="Include" />
+        <e p="DBUtils.cs" t="Include" />
+        <e p="Dot.cs" t="Include" />
+        <e p="Lab5_Serialization.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Triangle.cs" t="Include" />
+        <e p="Triangles.xml" t="Include" />
+      </e>
+      <e p="Lab6_Patterns" t="IncludeRecursive">
+        <e p="AccountDec.cs" t="Include" />
+        <e p="AccountFactory.cs" t="Include" />
+        <e p="Accounts" t="Include">
+          <e p="Account.cs" t="Include" />
+          <e p="CreditAccount.cs" t="Include" />
+          <e p="CurrentAccount.cs" t="Include" />
+          <e p="DepositAccount.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Client.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="CreditHandler.cs" t="Include" />
+          <e p="CurrentHandler.cs" t="Include" />
+          <e p="DepositHandler.cs" t="Include" />
+          <e p="Handler.cs" t="Include" />
+        </e>
+        <e p="Lab6_Patterns.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="sem3_OOPLabs.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

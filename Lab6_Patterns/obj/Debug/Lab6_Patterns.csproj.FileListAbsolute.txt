@@ -1,0 +1,6 @@
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab6_Patterns/bin/Debug/Lab6_Patterns.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab6_Patterns/bin/Debug/Lab6_Patterns.pdb
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab6_Patterns/obj/Debug/Lab6_Patterns.csproj.CoreCompileInputs.cache
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab6_Patterns/obj/Debug/Lab6_Patterns.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab6_Patterns/obj/Debug/Lab6_Patterns.pdb
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab6_Patterns/obj/Debug/Lab6_Patterns.csprojAssemblyReference.cache

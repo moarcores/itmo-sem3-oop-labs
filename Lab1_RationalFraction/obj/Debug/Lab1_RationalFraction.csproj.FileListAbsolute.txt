@@ -1,0 +1,6 @@
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab1_RationalFraction/bin/Debug/Lab1_RationalFraction.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab1_RationalFraction/bin/Debug/Lab1_RationalFraction.pdb
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab1_RationalFraction/obj/Debug/Lab1_RationalFraction.csprojAssemblyReference.cache
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab1_RationalFraction/obj/Debug/Lab1_RationalFraction.csproj.CoreCompileInputs.cache
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab1_RationalFraction/obj/Debug/Lab1_RationalFraction.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab1_RationalFraction/obj/Debug/Lab1_RationalFraction.pdb

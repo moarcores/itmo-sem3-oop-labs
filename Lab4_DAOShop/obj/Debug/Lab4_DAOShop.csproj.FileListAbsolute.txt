@@ -1,0 +1,7 @@
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab4_DAOShop/bin/Debug/Lab4_DAOShop.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab4_DAOShop/bin/Debug/Lab4_DAOShop.pdb
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab4_DAOShop/obj/Debug/Lab4_DAOShop.csprojAssemblyReference.cache
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab4_DAOShop/obj/Debug/Lab4_DAOShop.csproj.CoreCompileInputs.cache
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab4_DAOShop/obj/Debug/Lab4_DAOShop.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab4_DAOShop/obj/Debug/Lab4_DAOShop.pdb
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab4_DAOShop/bin/Debug/Lab4_DAOShop.exe.config

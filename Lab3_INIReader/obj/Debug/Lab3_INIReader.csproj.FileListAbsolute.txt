@@ -1,0 +1,6 @@
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab3_INIReader/bin/Debug/Lab3_INIReader.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab3_INIReader/bin/Debug/Lab3_INIReader.pdb
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab3_INIReader/obj/Debug/Lab3_INIReader.csprojAssemblyReference.cache
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab3_INIReader/obj/Debug/Lab3_INIReader.csproj.CoreCompileInputs.cache
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab3_INIReader/obj/Debug/Lab3_INIReader.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab3_INIReader/obj/Debug/Lab3_INIReader.pdb

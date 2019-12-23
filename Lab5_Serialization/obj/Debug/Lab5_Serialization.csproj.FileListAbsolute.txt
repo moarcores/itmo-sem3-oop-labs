@@ -1,0 +1,6 @@
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab5_Serialization/bin/Debug/Lab5_Serialization.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab5_Serialization/bin/Debug/Lab5_Serialization.pdb
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab5_Serialization/obj/Debug/Lab5_Serialization.csprojAssemblyReference.cache
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab5_Serialization/obj/Debug/Lab5_Serialization.csproj.CoreCompileInputs.cache
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab5_Serialization/obj/Debug/Lab5_Serialization.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab5_Serialization/obj/Debug/Lab5_Serialization.pdb

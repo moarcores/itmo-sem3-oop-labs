@@ -1,0 +1,6 @@
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab2_MusicLibrary/bin/Debug/Lab2_MusicLibrary.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab2_MusicLibrary/bin/Debug/Lab2_MusicLibrary.pdb
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab2_MusicLibrary/obj/Debug/Lab2_MusicLibrary.csprojAssemblyReference.cache
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab2_MusicLibrary/obj/Debug/Lab2_MusicLibrary.csproj.CoreCompileInputs.cache
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab2_MusicLibrary/obj/Debug/Lab2_MusicLibrary.exe
+/Users/sergei/RiderProjects/sem3_OOPLabs/Lab2_MusicLibrary/obj/Debug/Lab2_MusicLibrary.pdb
